@@ -22,7 +22,7 @@ theme:
         name: Switch to light mode
       # Light Mode
     - scheme: default
-      primary: Purple
+      primary: purple
       accent: red
       toggle:
         icon: material/weather-sunny

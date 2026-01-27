@@ -1,4 +1,4 @@
-## Exercise 4
+# Exercise 4
 Run Resource Monitor from the search bar. Look around and understand what is there. Go to the Memory tab. 
 
 Watching the color-coded Physical Memory bar graph on the Memory tab of Resource Monitor is by far the best way to see exactly what Windows is up to at any given time. 

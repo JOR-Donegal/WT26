@@ -1,6 +1,6 @@
 # Introduction
 
-!!! abstract "Practical - Windows Tools"
+!!! abstract "Windows Tools"
 
 These exercises are intended to familiarise the student with basic command line tools for measuring memory, disk, and SMART performance. 
 
