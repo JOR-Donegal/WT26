@@ -1,5 +1,5 @@
 # Exercise 3
-Performance Monitor (perfmon) is a powerful program found in all Microsoft systems and servers from NT to Windows Server 2008 R2 and will typically be used by experienced system administrators. Some of the benefits of using Perfmon are:
+Performance Monitor (perfmon) is a powerful program found in all Microsoft systems and servers from NT and will typically be used by experienced system administrators. Some of the benefits of using Perfmon are:
 
 1. To create baseline measurements. When you set up a server first, you take a whole range of metrics to allow you to figure out what "normal" is! Once you know what normal behaviour is, you can better understand behaviour under (a) heavy load and (b) error conditions.
 2. To identify subtle issues such as memory leakage, driver problems, malware.
@@ -13,4 +13,4 @@ The final step cannot be taught, it requires years of experience AND frequently,
 
 The second mode of operation is logging mode, that is the one we would use for long-term performance monitoring and preventive maintenance of servers. 
 
-Open perfmon and become familiar with it.  
+Open perfmon and become familiar with it, briefly document.  

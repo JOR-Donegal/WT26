@@ -10,7 +10,7 @@ Reserved: This area of the address space has been reserved for future use by the
 Committed: Memory that can be accessed by the program and is fully backed, which means that page frames have been allocated for it in the paging file. Committed pages are loaded into main memory only when the process first references them. This is called on-demand paging.
 
 <figure>
-<img src = "https://jor-donegal.github.io/PowerShell7/images/fig1.png">
+<img src = "https://jor-donegal.github.io/WT26/images/fig1.png">
 <figcaption>Fig 1. Virtual Memory.</figcaption>
 </figure>
 

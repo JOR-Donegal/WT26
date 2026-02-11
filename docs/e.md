@@ -19,3 +19,5 @@ Windows tries as hard as it can to keep this cache of memory as full as possible
 Windows tries its very best to avoid leaving any memory at all free. If you find yourself with a big enough chunk of memory here, you can bet that Windows will do its best to fill it by copying data from the disk and adding the new pages to the Standby list. 
 
 From Windows 7 onwards (and unlike XP and earlier Windows versions), the OS goes by the philosophy that empty RAM is wasted RAM and tries to keep it as full as possible, without impacting performance.
+
+Open resource monitor and become familiar with it, briefly document.  
